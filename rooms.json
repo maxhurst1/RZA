@@ -1,0 +1,26 @@
+[
+  {
+    "number": "001",
+    "description": "This luxurious room has two single beds, tv, deskspace, ensuite and an amazing view on the wildlife.",
+    "price": 40.00,
+    "image": "room-1.jpg"
+  },
+  {
+    "number": "002",
+    "description": "Enjoy your stay at the zoo with a room with a double bed, artwork and a staggering window view into the park.",
+    "price": 37.50,
+    "image": "room-2.jpg"
+  },
+  {
+    "number": "003",
+    "description": "This lavish room includes a double bed, artwork, tv and an ensuite.",
+    "price": 34.85,
+    "image": "room-3.jpg"
+  },
+  {
+    "number": "004",
+    "description": "Stay overnight in a room with a double bed, artwork, ensuite and a balcony looking into the zoo's wildlife.'",
+    "price": 32.70,
+    "image": "room-4.jpg"
+  }
+]
